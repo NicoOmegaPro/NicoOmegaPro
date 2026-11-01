@@ -2,7 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7c3aed&height=200&section=header&text=Nicolau%20Negre&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Desarrollador%20Full%20Stack&descAlignY=58&descSize=20" width="100%" alt="Nicolau Negre · Desarrollador Full Stack" />
 
-### 🛠️ Tecnologías
+<a href="mailto:negrenicolau@gmail.com"><img src="https://img.shields.io/badge/Email-negrenicolau%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nicolau-negre-rodr%C3%ADguez-526a2839a/"><img src="https://img.shields.io/badge/LinkedIn-Nicolau_Negre-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Mallorca%2C_Espa%C3%B1a-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Mallorca, España" />
+<a href="https://github.com/NicoOmegaPro/Noir"><img src="https://img.shields.io/badge/Proyecto_destacado-Noir-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Noir" /></a>
+
+<br>
+
+## 🛠️ Tecnologías
 
 **Frontend**
 
