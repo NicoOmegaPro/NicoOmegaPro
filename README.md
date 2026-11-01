@@ -64,11 +64,5 @@ Soy **Nicolau**, desarrollador Full Stack. Me gusta construir aplicaciones compl
 | Proyecto | Qué hace | Tecnologías |
 |----------|----------|-------------|
 | **[Noir](https://github.com/NicoOmegaPro/Noir)** | Gestor de proyectos e incidencias tipo Jira: tablero Kanban con arrastrar y soltar, sprints, subtareas, comentarios, adjuntos, equipos con roles, notificaciones y panel con estadísticas. | React · Node.js · Express · Prisma · PostgreSQL · Docker |
+| **[BalearTrek](https://github.com/NicoOmegaPro/BalearTrek)** | Aplicación para descubrir rutas de senderismo por las Islas Baleares y apuntarse a quedadas: rutas por isla y zona, lugares de interés, comentarios y panel de administración. | React · Laravel · PHP · Bootstrap · Tailwind CSS |
 | **[GmailsAutomatizados](https://github.com/NicoOmegaPro/GmailsAutomatizados)** | Automatización de Gmail para una empresa real: clasifica los correos con IA, rescata solicitudes del spam, responde automáticamente y lleva un panel en Google Sheets. | Google Apps Script · Gemini · JavaScript |
-| **[ClientePortafolio](https://github.com/NicoOmegaPro/ClientePortafolio)** | Mi portafolio personal hecho en React con una selección de mis proyectos. | React · CSS |
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1a1b27&height=110&section=footer" width="100%" alt="" />
-
-</div>
