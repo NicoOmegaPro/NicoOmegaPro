@@ -11,9 +11,8 @@
 
 Soy **Nicolau**, desarrollador Full Stack. Me gusta construir aplicaciones completas: desde la base de datos y la API hasta la interfaz.
 
-- 🌱 Sigo aprendiendo con proyectos personales y de clase.
+- 🌱 Sigo aprendiendo con proyectos personales y para empresas.
 - 🔭 Ahora estoy con **[Noir](https://github.com/NicoOmegaPro/Noir)**, un gestor de proyectos e incidencias tipo Jira.
-- ⚙️ He automatizado el correo de una empresa con Google Apps Script e IA.
 - 📫 Escríbeme a **negrenicolau@gmail.com**
 
 ## 🛠️ Tecnologías
