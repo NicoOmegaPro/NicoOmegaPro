@@ -2,20 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7c3aed&height=200&section=header&text=Nicolau%20Negre&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Desarrollador%20Full%20Stack&descAlignY=58&descSize=20" width="100%" alt="Nicolau Negre · Desarrollador Full Stack" />
 
-<a href="mailto:negrenicolau@gmail.com"><img src="https://img.shields.io/badge/Email-negrenicolau%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/NicoOmegaPro/Noir"><img src="https://img.shields.io/badge/Proyecto_destacado-Noir-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Noir" /></a>
-
-</div>
-
-## 👋 Sobre mí
-
-Soy **Nicolau**, desarrollador Full Stack. Me gusta construir aplicaciones completas: desde la base de datos y la API hasta la interfaz.
-
-- 🌱 Sigo aprendiendo con proyectos personales y para empresas.
-- 🔭 Ahora estoy con **[Noir](https://github.com/NicoOmegaPro/Noir)**, un gestor de proyectos e incidencias tipo Jira.
-- 📫 Escríbeme a **negrenicolau@gmail.com**
-
-## 🛠️ Tecnologías
+### 🛠️ Tecnologías
 
 **Frontend**
 
@@ -48,7 +35,7 @@ Soy **Nicolau**, desarrollador Full Stack. Me gusta construir aplicaciones compl
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Herramientas y otros**
+**Herramientas**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,10 +46,4 @@ Soy **Nicolau**, desarrollador Full Stack. Me gusta construir aplicaciones compl
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Qué hace | Tecnologías |
-|----------|----------|-------------|
-| **[Noir](https://github.com/NicoOmegaPro/Noir)** | Gestor de proyectos e incidencias tipo Jira: tablero Kanban con arrastrar y soltar, sprints, subtareas, comentarios, adjuntos, equipos con roles, notificaciones y panel con estadísticas. | React · Node.js · Express · Prisma · PostgreSQL · Docker |
-| **[BalearTrek](https://github.com/NicoOmegaPro/BalearTrek)** | Aplicación para descubrir rutas de senderismo por las Islas Baleares y apuntarse a quedadas: rutas por isla y zona, lugares de interés, comentarios y panel de administración. | React · Laravel · PHP · Bootstrap · Tailwind CSS |
-| **[GmailsAutomatizados](https://github.com/NicoOmegaPro/GmailsAutomatizados)** | Automatización de Gmail para una empresa real: clasifica los correos con IA, rescata solicitudes del spam, responde automáticamente y lleva un panel en Google Sheets. | Google Apps Script · Gemini · JavaScript |
+</div>
